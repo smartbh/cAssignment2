@@ -3,7 +3,7 @@
 void main()
 {
 	int result, jumsu;
-	printf("Á¡¼ö¸¦ ÀÔ·ÂÇØ ÁÖ¼¼¿ä");
+	printf("ì ìˆ˜ë¥¼ ì…ë ¥í•´ ì£¼ì„¸ìš”");
 	scanf("%d", &jumsu);
 
 	result = jumsu/10;
